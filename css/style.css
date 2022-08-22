@@ -1,0 +1,48 @@
+.page-content {
+    padding-top: 48px;
+    padding-left: 80px;
+    padding-right: 80px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.mdl-textfield {
+    width: 60%;
+}
+
+.formField {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.listContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 60%;
+}
+
+td,
+th {
+    width: 120px;
+}
+
+.mdl-button {
+    margin: 8px;
+}
+
+@media only screen and (max-width: 768px) {
+    .page-content {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .formField {
+        width: 100%;
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "auto": "car",
+    "tier": "animal",
+    "welt": "world",
+    "erdbeere": "strawberry",
+    "blaubeere": "blueberry",
+    "kirsche": "cherry",
+    "apfel": "apple",
+    "versprechen": "promise",
+    "bringen": "fetch",
+    "fangen": "catch",
+    "versuchen": "try",
+    "machen": "render",
+    "zufall": "random",
+    "anfrage": "request",
+    "antwort": "response",
+    "lernen": "study"
+}
